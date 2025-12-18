@@ -1,0 +1,12 @@
+[project]
+name = "spikeai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi>=0.125.0",
+    "google-analytics-data>=0.19.0",
+    "openai>=2.13.0",
+    "uvicorn>=0.38.0",
+]

@@ -1,3 +1,7 @@
 # spikeai
 Hackathon Submission of Team ROD
-Github check
+
+Setting up the project 
+```
+uv sync 
+```
